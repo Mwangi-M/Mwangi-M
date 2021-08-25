@@ -17,7 +17,7 @@
 
  - 📫 How to reach me : **mwangishadrack001@gmail.com**
 
- - ⚡ Hobbies **Cycling, Playing Music, Photography & Reading Novels.**
+ - ⚡ Hobbies: **Cycling, Playing Music(Guitar), Breeding Dogs, Photography & Reading Novels.**
 
 ## 🚀 Languages and Tools:
 
