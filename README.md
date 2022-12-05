@@ -4,6 +4,7 @@
 
 ## 🙋‍♂️ Summary
 An Open-Minded, Pragmatic, and Optimistic individual that passionately believes that technology can change the world. 
+<br/>
 
 
 ## 🚀 Tech Stack:
@@ -23,11 +24,12 @@ An Open-Minded, Pragmatic, and Optimistic individual that passionately believes 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Mwangi-M/github-readme-stats"><img alt="Mwangi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mwangi-M&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Mwangi-M/github-readme-stats"><img alt="Mwangi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwangi-M&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Mwangi-M/github-readme-stats"><img align="left" width="48%" alt="Mwangi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mwangi-M&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Mwangi-M/github-readme-stats"><img align="left" width="48%" alt="Mwangi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwangi-M&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  
   <b>N/B:- </b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <br/>
+  
 
 ## Connect with me:
 <p align="left">
