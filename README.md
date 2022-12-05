@@ -41,7 +41,7 @@ An Open-Minded, Pragmatic, and Optimistic individual that passionately believes 
 <p align="left">
     <a href = "https://www.linkedin.com/in/mwangi-s-742ba9183/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-    <a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href = "https://www.instagram.com/mwas.io/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
